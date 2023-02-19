@@ -1,0 +1,40 @@
+{
+  "field": {
+      "width": 5,
+      "height": 5
+  },
+  "solution": [
+    {
+      "cars": [
+        {
+          "size": 2,
+          "dir": "up",
+          "x": 0,
+          "y": 0
+        },
+        {
+          "size": 3,
+          "dir": "left",
+          "x": 2,
+          "y": 2
+        }
+      ]
+    },
+    {
+      "cars": [
+        {
+          "size": 2,
+          "dir": "up",
+          "x": 1,
+          "y": 0
+        },
+        {
+          "size": 3,
+          "dir": "left",
+          "x": 2,
+          "y": 2
+        }
+      ]
+    }
+  ]
+}
